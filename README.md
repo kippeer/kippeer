@@ -5,7 +5,7 @@
 **Desenvolvedor Full Stack | Entusiasta de Tecnologia**
 
 📍 **Localização:** Liberdade – Campina Grande/Paraíba  
-(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [fabiot92@gmail.com](mailto:fabiot92@gmail.com)  
+[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white] [fabiot92@gmail.com](mailto:fabiot92@gmail.com)  
 📞 +55 83 99665 3818  
 [GitHub](https://github.com/kippeer) | [Portfólio](https://fabiotessaro.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/fabio-aragao-496a32190/)
 
