@@ -84,5 +84,4 @@ Profissional com **2 anos de experiência** em Desenvolvimento de Software. Expe
 - **Tecnologias:** ReactJS, Node.js, MongoDB
 - **Link:** [Car App](https://carapp.example.com)
 
-![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR6anhocTVsaDh0d2traDNxdDhuOHQ0d2Q4dmphNjFiajY0OHd6NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
-
+![Welcome](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47yjwzxfq2w12r6dinf4kfxhdgvmuzn3x4uqhb827d&ep=v1_gifs_search&rid=giphy.gif&ct=g)
