@@ -5,7 +5,7 @@
 **Desenvolvedor Full Stack | Entusiasta de Tecnologia**
 
 📍 **Localização:** Liberdade – Campina Grande/Paraíba  
-📧 [fabiot92@gmail.com](mailto:fabiot92@gmail.com)  
+(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [fabiot92@gmail.com](mailto:fabiot92@gmail.com)  
 📞 +55 83 99665 3818  
 [GitHub](https://github.com/kippeer) | [Portfólio](https://fabiotessaro.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/fabio-aragao-496a32190/)
 
@@ -57,6 +57,7 @@ Profissional com **2 anos de experiência** em Desenvolvimento de Software. Expe
 ### **[EstudoFabioFlix](https://example.com)**
 - **Descrição:** Desenvolvimento de uma aplicação web inspirada em plataformas de streaming de vídeo.
 - **Tecnologias:** ReactJS, Node.js, MongoDB
+- (https://estudofabioflix.vercel.app/)
 
 ### **[StoreFTessaro](https://example.com)**
 - **Descrição:** Sistema de e-commerce para venda de produtos diversos.
@@ -65,12 +66,6 @@ Profissional com **2 anos de experiência** em Desenvolvimento de Software. Expe
 ### **[Car App](https://example.com)**
 - **Descrição:** Protótipo de site para venda de carros para um cliente.
 - **Tecnologias:** ReactJS, Node.js, MongoDB
-
-## 📊 Estatísticas
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=fabiotessaro&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiotessaro&layout=compact&theme=radical)
 
 ---
 
