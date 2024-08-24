@@ -78,6 +78,9 @@ Profissional com **2 anos de experiência** em Desenvolvimento de Software. Expe
 - **Descrição:** Sistema de e-commerce para venda de produtos diversos.
 - **Tecnologias:** ReactJS, Node.js, Express
 - **Link:** [StoreFTessaro](https://storeftessaro.example.com)
+  
+![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQyYnA1czVpN3Zhc282bnQ3a3hnMjM4NWJ5aWR6OWFzbnBpdnNzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v9bipbbqgOmCSSpPgl/giphy.gif)
+
 
 ### **[Car App](https://example.com)**
 - **Descrição:** Protótipo de site para venda de carros.
